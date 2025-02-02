@@ -1,5 +1,10 @@
 # GDSC Build With AI Mac-A-Thon: FinanceHer
 
+## Screenshots
+![Home Page](https://github.com/user-attachments/assets/fb7b1ebe-e016-42e0-9926-074fc2794762)
+![Expenses Tracking Page](https://github.com/user-attachments/assets/560f2207-3b10-4c0c-98fc-723272a3471b)
+![Financial Advisor Chatbot Page](https://github.com/user-attachments/assets/9cf21990-e4fc-4ad8-bf30-d317b1b99617)
+
 ## Inspiration ✨
 _The lack of accessible financial tools for women exacerbates poverty and inequality, perpetuating cycles of economic disadvantage_. **FinanceHer** was created to bridge this gap, empowering women with the tools to make informed financial decisions and achieve financial independence. By offering clear financial insights, tracking, and personalized education, FinanceHer helps users build confidence in managing their finances!
 
